@@ -1,0 +1,5 @@
+1th node 0
+2th node 5
+3th node 8
+4th node 6
+5th node 9
